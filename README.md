@@ -2,6 +2,9 @@
 
 ### I'm a Full-Stack Web Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 - Currently learning **`React`** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
+- Currently working on **`Portfolio website`**
+ ### How to reach me:
+<p><a href="https://www.linkedin.com/in/vfatikhova/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="mailto:nikafatikfova@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a></p>
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
