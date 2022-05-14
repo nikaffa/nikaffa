@@ -1,8 +1,8 @@
 ## 👋 Hello World, I'm Veronika! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### I'm a Full-Stack Web Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-- Currently learning **`React`** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
-- Currently working on **`Portfolio website`**
+- Currently learning **`React and React hooks`** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
+- Currently working on **`Interview scheduler with React`**
  ### How to reach me:
 <p><a href="https://www.linkedin.com/in/vfatikhova/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="mailto:nikafatikfova@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a></p>
 
