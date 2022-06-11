@@ -1,5 +1,4 @@
-## 👋 Hello World, I'm Veronika! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+## 👋 Hello World, I'm Veronika!
 ### I'm a Full-Stack Web Developer <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 - Currently learning **`React and React hooks`** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
 - Currently working on **`Interview scheduler with React`**
